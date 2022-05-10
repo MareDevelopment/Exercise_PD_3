@@ -1,0 +1,131 @@
+body {
+  background-color: #CC6633;
+}
+
+header {
+  background: #FFCC66;
+  border: 1px solid black;
+  margin: 25px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.title {
+  float: left;
+  padding-left: 5%;
+}
+
+.head {
+  float: left;
+  padding: 15px 10px;
+}
+
+.logo {
+  width: 10%;
+  height: auto;
+}
+
+nav {
+  background: #FFCC66;
+  border: 1px solid black;
+  margin: 25px;
+  box-sizing: border-box;
+}
+
+.bar {
+  width: 95%;
+  margin: auto;
+}
+
+.button {
+  width: 20%;
+  display: inline-block;
+  padding: 0% 2.3%;
+}
+
+section {
+  background-color: #FFCC66;
+  border: 1px solid black;
+  width: 48%;
+  float: left;
+  margin: 1%;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 500px;
+  overflow: scroll;
+}
+
+aside {
+  background-color: #FFCC66;
+  border: 1px solid black;
+  width: 48%;
+  float: left;
+  margin: 1%;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 500px;
+  overflow: scroll;
+}
+
+h1 {
+  font-style: oblique;
+  color: #CC6633;
+  font-size: 40px;
+}
+
+h2 {
+  font-style: oblique;
+  color: #CC6633;
+}
+
+h3 {
+  font-style: italic;
+  color: #CC6600;
+  text-decoration: underline;
+}
+
+p {
+  text-align: left;
+}
+
+img {
+  max-width: 700px;
+}
+
+footer {
+  background-color: #FFCC66;
+  border: 1px solid black;
+  margin: 25px;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 10px;
+  clear: both;
+}
+
+.wsp {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  width: 110px;
+  overflow: auto;
+}
+
+.wspp {
+  width: 100px;
+  height: auto;
+  float: right;
+  padding: 10px;
+}
+
+.social {
+  float: right;
+  padding: 15px 10px;
+}
+
+/*
+width: 55px;
+height: 55px;
+line-height: 55px;
+botom: 30px;
+right: 30px;
+*/
